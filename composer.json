@@ -4,5 +4,6 @@
     "twig/extensions": "~1.0",
     "ext-mbstring": "*",
     "ext-intl": "*"
+    "ext-bcmath": "*"
   }
 }
