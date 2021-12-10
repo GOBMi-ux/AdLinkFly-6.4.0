@@ -256,6 +256,7 @@
         "php": "~7.3.0",
         "ext-mbstring": "*",
         "ext-intl": "*"
+        "ext-bcmath": "*"
     },
     "platform-dev": []
 }
